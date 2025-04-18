@@ -1,5 +1,7 @@
 # US-Visa-Approval-Prediction
 
+# Process:
+Data Ingestion --> Data Validation --> Transformation --> Model Training --> Model Eval --> Push to Cloud(S3)
 ## WorkFlow
 1. Constant -> Contains all the Variable/config values
 2. Config_entity -> Contains all the folder structure
